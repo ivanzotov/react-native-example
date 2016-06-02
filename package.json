@@ -1,0 +1,19 @@
+{
+  "name": "ProFit",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "moment": "^2.13.0",
+    "react": "^0.14.8",
+    "react-native": "^0.25.1",
+    "react-native-i18n": "0.0.8",
+    "react-native-vector-icons": "^2.0.1",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.2",
+    "redux-logger": "^2.6.1",
+    "redux-thunk": "^2.0.1"
+  }
+}
